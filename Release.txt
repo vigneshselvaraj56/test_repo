@@ -1,5 +1,1 @@
-This is a release note
-First change in the feature branch
-This change is in hotfix-branch
-This a test in feature branch
-Hello!
+New Test Branch
